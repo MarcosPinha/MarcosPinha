@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MarcosPinha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MarcosPinha/MarcosPinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- QuemSouEU.md
+Oi, meu nome é Marcos Antonio Pinha e tenho 17 anos;
+Atualmente estou interessado em terminar meu curso técnico em informática (focado principalmente em programação);
+Estou aprendendo Java orientado a objetos;
+Trabalho na empresa Brado como TI como aprendiz;
+Se quiser falar comigo pode entrar em contato comigo através do meu e-mail (marcosantoniopinha@gmail.com).
+Obrigado!!

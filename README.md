@@ -5,7 +5,7 @@ Atualmente estou interessado em terminar meu curso técnico em informática (foc
 
 Estou aprendendo Java orientado a objetos
 
-Trabalho na empresa Brado como TI como aprendiz;
+Trabalho na empresa Brado cargo de TI como aprendiz;
 
 Se quiser falar comigo pode entrar em contato comigo através do meu e-mail (marcosantoniopinha@gmail.com).
 
